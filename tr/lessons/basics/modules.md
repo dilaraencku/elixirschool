@@ -3,7 +3,7 @@ version: 1.2.0
 title: Modüller
 ---
 
-Bu zaman kadar ki derslerimiz de fonksiyonları aynı dosya ve alanda tanımladık. In this lesson we're going to cover how to group functions and define a specialized map in a struct in order to organize our code more efficiently.
+Bu zamana kadar ki derslerimizde fonksiyonları aynı dosya ve alanda tanımladık. In this lesson we're going to cover how to group functions and define a specialized map in a struct in order to organize our code more efficiently.
 {% include toc.html %}
 
 ## Modüller
@@ -60,7 +60,7 @@ Elixir'de bazı niteliklerin özel olarak ayrıldığını belirmekte fayda var.
 + `doc` — Fonksiyon ve makrolar için dokümanlar
 + `behaviour` — OTP veya kullanıcı tanımlı davranış için kullanma.
 
-## Yapılarlar (Structs)
+## Yapılar(Structs)
 
 Yapılar anahtar kelime ve varsayılan değerlerinden oluşan özel haritalardır. Yapının adını alacağı bir modül içne tanımlanmalıdır.  Modül içinde yapı tek başına tanımlanması yaygın bir kullanımdır.
 
